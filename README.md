@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Franco Dagostino  
-[<img src="(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZyZnRtZGJzaDF6azJlOXVlbWFjOW5qa3NjYnp5YTVsbnA4YzA5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif)" alt="Cat Coding" width="250" align="right" />]
+[<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZyZnRtZGJzaDF6azJlOXVlbWFjOW5qa3NjYnp5YTVsbnA4YzA5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif" alt="Cat Coding" width="250" align="right" />]
 
 🎓 **Systems Engineering Student** | 💻 **IT Technician** | 🌐 **Full Stack Developer in progress**  
 
@@ -25,9 +25,13 @@ Currently, I’m focusing on strengthening my skills in **web development, syste
 ---
 
 ## 📫 Let's Connect
-- [![GitHub](https://img.shields.io/github/followers/FranKDagos?label=Follow&style=social)](https://github.com/FranKDagos)
-- [![Gmail](https://img.shields.io/badge/Email-francodagostino20@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francodagostino20@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Franco%20D%20Agostino-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-d-agostino/)
+
+[![GitHub](https://img.shields.io/github/followers/FranKDagos?label=Follow&style=social)](https://github.com/FranKDagos)
+
+[![Email](https://img.shields.io/badge/Email-francodagostino20@gmail.com?style=social&logo=gmail&logoColor=white)](mailto:francodagostino20@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franco%20D%20Agostino?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-d-agostino/)
+
 
 ---
 
