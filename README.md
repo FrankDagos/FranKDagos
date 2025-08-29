@@ -8,6 +8,12 @@ Currently, I’m focusing on strengthening my skills in **web development, syste
 
 ---
 
+
+
+
+
+
+
 ## 🚀 About Me
 - 🌍 From Mendoza, Argentina  
 - 📚 Always learning new technologies and best practices  
