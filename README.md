@@ -27,11 +27,8 @@ Currently, I’m focusing on strengthening my skills in **web development, syste
 ## 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/github/followers/FranKDagos?label=Follow&style=social)](https://github.com/FranKDagos)
-
-[![Email](https://img.shields.io/badge/Email-francodagostino20@gmail.com?style=social&logo=gmail&logoColor=white)](mailto:francodagostino20@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franco%20D%20Agostino?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-d-agostino/)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.www.linkedin.com/in/franco-d-agostino/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:francodagostino20@gmail.com)
 
 ---
 
