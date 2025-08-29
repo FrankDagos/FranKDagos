@@ -8,13 +8,7 @@ Currently, I’m focusing on strengthening my skills in **web development, syste
 
 ---
 
-
-
-
-
-
-
-## 🚀 About Me
+### 🚀 About Me
 - 🌍 From Mendoza, Argentina  
 - 📚 Always learning new technologies and best practices  
 - 🔧 Interested in **software development, networking, and cloud computing**  
@@ -22,7 +16,7 @@ Currently, I’m focusing on strengthening my skills in **web development, syste
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 - **Languages:** Java, JavaScript, HTML, CSS 
 - **Frameworks & Tools:** Spring Boot, Node.js, React, Express, Bootstrap  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
@@ -30,7 +24,7 @@ Currently, I’m focusing on strengthening my skills in **web development, syste
 
 ---
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/github/followers/FranKDagos?label=Follow&style=social)](https://github.com/FranKDagos)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.www.linkedin.com/in/franco-d-agostino/)
