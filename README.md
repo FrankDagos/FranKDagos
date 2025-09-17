@@ -1,6 +1,6 @@
 ![Header](./header-banner.png)
+
 ---
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZyZnRtZGJzaDF6azJlOXVlbWFjOW5qa3NjYnp5YTVsbnA4YzA5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif" alt="Cat Coding" width="250" align="right" />
 
 🎓 **Systems Engineering Student** | 💻 **IT Technician** | 🌐 **Full Stack Developer in progress**  
 
